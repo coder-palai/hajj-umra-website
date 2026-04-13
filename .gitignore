@@ -1,0 +1,12 @@
+# Laravel .gitignore
+
+/vendor/
+/node_modules/
+/public/hot
+/public/storage
+/.env
+/.env.*.php
+.phpunit.result.cache
+/.idea/
+/.vscode/
+/.DS_Store
